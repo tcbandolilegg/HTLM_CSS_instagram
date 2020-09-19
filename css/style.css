@@ -138,7 +138,7 @@ body {
 }
 
 
-/* Media queries */
+/* Media queries par adequação das telas*/
 
 @media (max-width: 1024px) {
   .instagram-wrapper {
@@ -148,7 +148,7 @@ body {
 
 @media (max-width: 650px) {
   body {
-    background-color: #ffffffff;
+    background-color: #ffffff;
   }
 
   .instagram-wrapper {
@@ -166,4 +166,6 @@ body {
   .group {
     border: 1px solid transparent;
   }
+
+
 }
